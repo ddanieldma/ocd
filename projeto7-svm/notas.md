@@ -1,0 +1,1 @@
+- Tirar implementação de "funções padrão"
